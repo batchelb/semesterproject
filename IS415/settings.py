@@ -76,10 +76,10 @@ WSGI_APPLICATION = 'IS415.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'ebdb',
-            'USER': 'ebroot',
+            'NAME': 'IS415',
+            'USER': 'IS415',
             'PASSWORD': 'ISRocks!',
-            'HOST': '52.26.31.217',
+            'HOST': '34.208.121.9',
             'PORT': '5432',
         }
 }
