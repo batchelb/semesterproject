@@ -78,7 +78,7 @@ DATABASES = {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'ebdb',
             'USER': 'ebroot',
-            'PASSWORD': 'ISRocks',
+            'PASSWORD': 'ISRocks!',
             'HOST': '52.26.31.217',
             'PORT': '5432',
         }
